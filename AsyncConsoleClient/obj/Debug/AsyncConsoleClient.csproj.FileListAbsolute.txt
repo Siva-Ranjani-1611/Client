@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\AsyncConsoleClient\AsyncConsoleClient\bin\Debug\AsyncConsoleClient.exe.config
+C:\Users\User\source\repos\AsyncConsoleClient\AsyncConsoleClient\bin\Debug\AsyncConsoleClient.exe
+C:\Users\User\source\repos\AsyncConsoleClient\AsyncConsoleClient\bin\Debug\AsyncConsoleClient.pdb
+C:\Users\User\source\repos\AsyncConsoleClient\AsyncConsoleClient\obj\Debug\AsyncConsoleClient.csprojAssemblyReference.cache
+C:\Users\User\source\repos\AsyncConsoleClient\AsyncConsoleClient\obj\Debug\AsyncConsoleClient.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\AsyncConsoleClient\AsyncConsoleClient\obj\Debug\AsyncConsoleClient.exe
+C:\Users\User\source\repos\AsyncConsoleClient\AsyncConsoleClient\obj\Debug\AsyncConsoleClient.pdb
